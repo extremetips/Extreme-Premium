@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:0,video.m3u8
+#EXTINF:99,video.m3u8
 #EXTVLCOPT:network-caching=1000
+https://live.multicanais.tv/FOX/video.m3u8
 https://live.multicanais.tv/TELECINEFUN/video.m3u8
-#EXTINF:112,video.m3u8
-#EXTVLCOPT:network-caching=1000
+https://live.multicanais.tv/COMBATE/video.m3u8
+https://live.multicanais.tv/FOX/video.m3u8
 https://live.multicanais.tv/TNT/video.m3u8
