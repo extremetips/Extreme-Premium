@@ -14,6 +14,9 @@ https://live.multicanais.tv/FOX/video.m3u8
 #EXTINF:99,TNT
 #EXTVLCOPT:network-caching=10
 https://live.multicanais.tv/TNT/video.m3u8
-#EXTINF:10,ANIMAL PLANET
+#EXTINF:10,TELECINE ACTION
 #EXTVLCOPT:network-caching=10
-https://live.multicanais.tv/ANIMALPLANET/video.m3u8
+https://live.multicanais.tv/TELECINEACTION/video.m3u8
+#EXTINF:10,TELECINE PREMIUM
+#EXTVLCOPT:network-caching=10
+https://live.multicanais.tv/TELECINEPREMIUM/video.m3u8
