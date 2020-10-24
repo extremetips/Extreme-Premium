@@ -14,3 +14,6 @@ https://live.multicanais.tv/FOX/video.m3u8
 #EXTINF:99,TNT
 #EXTVLCOPT:network-caching=10
 https://live.multicanais.tv/TNT/video.m3u8
+#EXTINF:10,TNT
+#EXTVLCOPT:network-caching=10
+https://live.futebolonlineaovivo.com/ANIMALPLANET/video.m3u8
