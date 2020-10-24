@@ -23,6 +23,6 @@ https://live.multicanais.tv/TELECINEPREMIUM/video.m3u8
 #EXTINF:10,TELECINE PIPOCA
 #EXTVLCOPT:network-caching=10
 https://live.multicanais.tv/TELECINEPIPOCA/video.m3u8
-#EXTINF:10,MEGAPIX
+#EXTINF:10,CARTOON
 #EXTVLCOPT:network-caching=10
-https://live.netcanais.com/MEGAPIX/video.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_9fb92d103e8321103f67b22e79569d4e37d2e06e/playlist.m3u8
