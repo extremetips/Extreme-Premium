@@ -20,3 +20,9 @@ https://live.multicanais.tv/TELECINEACTION/video.m3u8
 #EXTINF:10,TELECINE PREMIUM
 #EXTVLCOPT:network-caching=10
 https://live.multicanais.tv/TELECINEPREMIUM/video.m3u8
+#EXTINF:10,TELECINE PIPOCA
+#EXTVLCOPT:network-caching=10
+https://live.multicanais.tv/TELECINEPIPOCA/video.m3u8
+#EXTINF:10,MEGAPIX
+#EXTVLCOPT:network-caching=10
+https://live.netcanais.com/MEGAPIX/video.m3u8
