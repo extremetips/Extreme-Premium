@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:99,A&E
-#EXTVLCOPT:network-caching=10
-http://186.208.5.230:80/paulomanaus/paulomanaus/114
+#EXTVLCOPT:network-caching=1000
+http://186.208.5.230:80/paulomanaus/paulomanaus/131
