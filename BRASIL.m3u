@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:99,FOX
+#EXTINF:99,A&E
 #EXTVLCOPT:network-caching=10
-https://live.multicanais.tv/FOX/video.m3u8
-#EXTINF:99,TELECINEFUN
-#EXTVLCOPT:network-caching=10
-https://live.multicanais.tv/TELECINEFUN/video.m3u8
-#EXTINF:99,COMBATE
-#EXTVLCOPT:network-caching=10
-https://live.multicanais.tv/COMBATE/video.m3u8
-#EXTINF:99,FOX
-#EXTVLCOPT:network-caching=10
-https://live.multicanais.tv/FOX/video.m3u8
-#EXTINF:99,TNT
-#EXTVLCOPT:network-caching=10
-https://live.multicanais.tv/TNT/video.m3u8
-#EXTINF:10,TELECINE ACTION
-#EXTVLCOPT:network-caching=10
-https://live.multicanais.tv/TELECINEACTION/video.m3u8
-#EXTINF:10,TELECINE PREMIUM
-#EXTVLCOPT:network-caching=10
-https://live.multicanais.tv/TELECINEPREMIUM/video.m3u8
-#EXTINF:10,TELECINE PIPOCA
-#EXTVLCOPT:network-caching=10
-https://live.multicanais.tv/TELECINEPIPOCA/video.m3u8
-#EXTINF:10,DISCOVERY
-#EXTVLCOPT:network-caching=10
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoverychannel_af3e1334_877e8fc016e4882b1c9db1591b9639d220d8bea0/playlist.m3u8
+http://186.208.5.230:80/paulomanaus/paulomanaus/114
