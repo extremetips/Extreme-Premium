@@ -1,1 +1,1 @@
-{"epg":"http://smart.cms-central.ovh:80/xmltv.php?username=miquel&password=miquel","list":"http://smart.cms-central.ovh//get.php?username=miquel&password=miquel&type=m3u_plus&output=ts","success":true,"validity":"10/12/2020"}
+{"epg":"http://bkimport.xyz:80/xml.php?username=carlos1&password=carlos1","list":"http://bkimport.xyz:80/get.php?username=carlos1&password=carlos1&type=m3u_plus&output=ts","success":true,"validity":"10/12/2020"}
