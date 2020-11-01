@@ -1,1 +1,1 @@
-{"epg":"http://bkimport.xyz:80/xml.php?username=carlos1&password=carlos1","list":"http://bkimport.xyz:80/get.php?username=carlos1&password=carlos1&type=m3u_plus&output=ts","success":true,"validity":"10/12/2020"}
+{"epg":"http://bkimport.xyz:80/xml.php?username=carlos1&password=carlos1","list":"http://cms-central.co:80/get.php?username=miquel&password=miquel&type=m3u_plus","success":true,"validity":"10/12/2020"}
