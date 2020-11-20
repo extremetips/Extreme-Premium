@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BR: testeminha" tvg-logo="",BR: TV viva
 http://45.162.231.22/BR_Viva_HD.m3u8?md5=WER4yra_dl6H7H4EgrW6Og&expires=1606007117&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTM3U
 #EXTINF:-2 tvg-name="BR: combate" tvg-logo="",BR: TV combate
 http://45.162.231.22/br_combate.m3u8?md5=WER4yra_dl6H7H4EgrW6Og&expires=1606007117&u=1160041&p=5206787&dd=1160041&devicetype=eai
