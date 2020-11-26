@@ -1,485 +1,485 @@
 #EXTM3U
 
 #EXTINF:-1 ,Globo SP | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/3
 
 #EXTINF:-1 ,AMC | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/4
 
 #EXTINF:-1 ,TNT | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/6
 
 #EXTINF:-1 ,TNT Series | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/7
 
 #EXTINF:-1 ,HBO xTREME | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/8
 
 #EXTINF:-1 ,HBO POP | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/9
 
 #EXTINF:-1 ,Paramount | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/10
 
 #EXTINF:-1 ,Polishop
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/11
 
 #EXTINF:-1 ,Band | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/14
 
 #EXTINF:-1 ,Band | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/15
 
 #EXTINF:-1 ,Canal Brasil | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/16
 
 #EXTINF:-1 ,Canal Comunitario HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/17
 
 #EXTINF:-1 ,Canal Rural
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/18
 
 #EXTINF:-1 ,Canal Universitario HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/19
 
 #EXTINF:-1 ,Cultura | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/20
 
 #EXTINF:-1 ,Curta HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/21
 
 #EXTINF:-1 ,Globo SP | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/23
 
 #EXTINF:-1 ,Globo MG | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/24
 
 #EXTINF:-1 ,Globo Nordeste | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/25
 
 #EXTINF:-1 ,Globo BA | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/26
 
 #EXTINF:-1 ,Globo RJ | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/27
 
 #EXTINF:-1 ,Record TV | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/30
 
 #EXTINF:-1 ,Record TV | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/31
 
 #EXTINF:-1 ,Rede 21
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/32
 
 #EXTINF:-1 ,Rede TV | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/34
 
 #EXTINF:-1 ,Rede Vida | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/35
 
 #EXTINF:-1 ,SBT | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/37
 
 #EXTINF:-1 ,Tv Aparecida
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/38
 
 #EXTINF:-1 ,Tv Brasil
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/39
 
 #EXTINF:-1 ,TV Câmara | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/40
 
 #EXTINF:-1 ,TV Escola | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/41
 
 #EXTINF:-1 ,TV Justiça | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/42
 
 #EXTINF:-1 ,Tv Novo Tempo
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/43
 
 #EXTINF:-1 ,TV Senado | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/44
 
 #EXTINF:-1 ,Globo Campinas | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/45
 
 #EXTINF:-1 ,Band Sports | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/46
 
 #EXTINF:-1 ,Band Sports | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/47
 
 #EXTINF:-1 ,Combate | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/48
 
 #EXTINF:-1 ,Combate | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/49
 
 #EXTINF:-1 ,Animal Planet | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/99
 
 #EXTINF:-1 ,Animal Planet | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/100
 
 #EXTINF:-1 ,Discovery Home & Health | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/101
 
 #EXTINF:-1 ,Discovery Home & Health | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/102
 
 #EXTINF:-1 ,Discovery Channel | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/103
 
 #EXTINF:-1 ,Discovery Channel | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/104.ts
 
 #EXTINF:-1 ,ESPN Extra | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/50
 
 #EXTINF:-1 ,ESPN | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/51
 
 #EXTINF:-1 ,ESPN | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/52
 
 #EXTINF:-1 ,ESPN Brasil | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/53
 
 #EXTINF:-1 ,ESPN Brasil | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/54
 
 #EXTINF:-1 ,FoxSports | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/55
 
 #EXTINF:-1 ,FoxSports | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/56
 
 #EXTINF:-1 ,FoxSports 2 | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/57
 
 #EXTINF:-1 ,FoxSports2 | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/58
 
 #EXTINF:-1 ,OFF | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/59
 
 #EXTINF:-1 ,OFF | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/60
 
 #EXTINF:-1 ,Premiere Clubes | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/61
 
 #EXTINF:-1 ,Premiere Clubes | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/62
 
 #EXTINF:-1 ,Premiere 2 | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/63
 
 #EXTINF:-1 ,Premiere 3 | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/64
 
 #EXTINF:-1 ,Premiere 4 | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/65
 
 #EXTINF:-1 ,Premiere 5 | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/66
 
 #EXTINF:-1 ,Premiere 7 | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/67
 
 #EXTINF:-1 ,Premiere 8 | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/68
 
 #EXTINF:-1 ,SporTV | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/69
 
 #EXTINF:-1 ,SporTV | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/70
 
 #EXTINF:-1 ,SporTV2 | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/71
 
 #EXTINF:-1 ,SporTV 2 | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/72
 
 #EXTINF:-1 ,SBT | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/73
 
 #EXTINF:-1 ,SporTV3 | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/74
 
 #EXTINF:-1 ,Rede TV | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/75
 
 #EXTINF:-1 ,Love Nature | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/76
 
 #EXTINF:-1 ,Bloomberg | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/77
 
 #EXTINF:-1 ,CNN International | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/78
 
 #EXTINF:-1 ,DW
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/79
 
 #EXTINF:-1 ,NHK | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/80
 
 #EXTINF:-1 ,Record News | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/81
 
 #EXTINF:-1 ,SIC International | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/82
 
 #EXTINF:-1 ,Tv 5 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/83
 
 #EXTINF:-1 ,Tve HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/84
 
 #EXTINF:-1 ,Globo News | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/85
 
 #EXTINF:-1 ,Band News | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/86
 
 #EXTINF:-1 ,Beinsport 1 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/87
 
 #EXTINF:-1 ,Beinsport 2 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/88
 
 #EXTINF:-1 ,Beinsport 3 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/89
 
 #EXTINF:-1 ,Beinsport 4 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/90
 
 #EXTINF:-1 ,Beinsport 5 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/91
 
 #EXTINF:-1 ,Beinsport 6 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/92
 
 #EXTINF:-1 ,Beinsport 7 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/93
 
 #EXTINF:-1 ,Beinsport 9 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/95
 
 #EXTINF:-1 ,Beinsport 10 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/96
 
 #EXTINF:-1 ,Beinsport 11 HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/97
 
 #EXTINF:-1 ,EuroChannel | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/104
 
 #EXTINF:-1 ,Discovery Theater | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/105
 
 #EXTINF:-1 ,Discovery Theater | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/106
 
 #EXTINF:-1 ,Discovery Turbo | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/107
 
 #EXTINF:-1 ,Discovery Turbo | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/108
 
 #EXTINF:-1 ,Discovery World | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/109
 
 #EXTINF:-1 ,Fish Tv HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/110
 
 #EXTINF:-1 ,Food Network FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/111
 
 #EXTINF:-1 ,Food Network HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/112
 
 #EXTINF:-1 ,FX | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/113
 
 #EXTINF:-1 ,FX | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/114
 
 #EXTINF:-1 ,History channel | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/115
 
 #EXTINF:-1 ,History channel | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/116
 
 #EXTINF:-1 ,Investigacao Discovery  | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/117
 
 #EXTINF:-1 ,NatGeo | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/118
 
 #EXTINF:-1 ,NatGeo | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/119
 
 #EXTINF:-1 ,NatGeoWild | FHD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/120
 
 #EXTINF:-1 ,NatGeo Wild | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/121
 
 #EXTINF:-1 ,Discovery Science | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/122
 
 #EXTINF:-1 ,TLC | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/123
 
 #EXTINF:-1 ,HGTV HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/124
 
 #EXTINF:-1 ,Smithsonian | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/125
 
 #EXTINF:-1 ,Film & Arts | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/126
 
 #EXTINF:-1 ,Baby TV | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/127
 
 #EXTINF:-1 ,Boomerang | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/128
 
 #EXTINF:-1 ,Cartoon Network | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/129
 
 #EXTINF:-1 ,Disney Channel | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/130
 
 #EXTINF:-1 ,Disney Junior | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/131
 
 #EXTINF:-1 ,Disney XD | HD
-user-agent="hightvPlayer" 
+#EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/132
