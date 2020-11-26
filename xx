@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent="hightvPlayer"
-http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/104.ts
+http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/104.m3u8
 #EXTM3U
 #EXTVLCOPT:http-user-agent="hightvPlayer"
 #EXTINF:0 ,OFF | HD 
