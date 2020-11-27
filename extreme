@@ -2,5 +2,5 @@
 #EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1",My Channel
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/104.ts
 
-#EXTINF:1 ,Globo SP | HD ,user-agentt="hightvPlayer" 
+#EXTINF:1 ,Globo SP | HD ,user-agent="hightvPlayer" 
 http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/3
