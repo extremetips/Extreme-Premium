@@ -1,5 +1,13 @@
-#EXTINF:0,Globo News | HD
-http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/100.ts|User-agent=hightvPlayer
-
 #EXTINF:0,Globo News2
-http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/104.ts|User-agent="hightvPlayer"
+http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/85.ts|User-agent="hightvPlayer Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1"
+
+#EXTM3U
+#EXTINF:0 user-agent="hightvPlayer Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1",My Channel
+http://viptv2.dyndns.tv:25461/live/C44EAC260B49/C44EAC260B49/104.ts
+
+
+
+#EXTM3U
+#EXTVLCOPT:http-user-agent="hightvPlayer Mozilla/5.0 (SMART-TV; Linux; Tizen 2.3) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1" 
+#EXTINF:-1 ,OFF | HD 
+http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/60.ts
