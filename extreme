@@ -5,5 +5,5 @@ http://viptv2.dyndns.tv:25461/live/C44EAC260B49/C44EAC260B49/104.ts
 #EXTINF:0 user-agent="hightvPlayer (Linux;Android 7.1.2) ExoPlayerLib/2.10.1",My Channel
 http://viptv2.dyndns.tv:25461/C44EAC260B49/C44EAC260B49/3
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",Premiere 8 | HD 
+#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",Premiere 8 HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/68.ts
