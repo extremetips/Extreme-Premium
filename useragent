@@ -1,2 +1,5 @@
 #EXTINF:0,Globo News | HD
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/85.ts|User-agent=hightvPlayer
+
+#EXTINF:0,Globo News2
+http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/85.ts|User-agent="hightvPlayer"
