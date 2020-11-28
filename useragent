@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,Globo SP
+#EXTVLCOPT:http-user-agent="hightvPlayer" 
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/3
 #EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",OFF
 http://103.195.100.214:25461/live/A81905E6C3A6/A81905E6C3A6/60.ts
 #EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISCOVERY
