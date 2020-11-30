@@ -1,1 +1,1 @@
-{"epg":"http://cms-central.co:80/xml.php?username=miquel&password=miquel","list":"http://pdsrv.io:80/get.php?username=danirod&password=danirod&type=m3u","success":true,"validity":"25/12/2020"}
+{"epg":"http://cms-central.co:80/xml.php?username=miquel&password=miquel","list":"http://pdsrv.io:80/get.php?username=danirod&password=danirod&type=m3u_plus","success":true,"validity":"25/12/2020"}
