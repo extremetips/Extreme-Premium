@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1"
-#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 05" , A&E HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4788
 #EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1"
 #EXTINF:-1 tvg-logo="" group-title="SERVIDOR 05" , AMC HD
