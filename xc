@@ -1,15 +1,20 @@
-#EXTINF:-1 ,Globo RJ | HD
-#EXTINF:user-agent="hightvplayer"
-http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4768
 
-#EXTINF:-1 ,Globo
-#EXTINF:http-user-agent="hightvplayer"
-http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4769
+#EXTM3U
 
-#EXTINF:-1 ,Globo
-#EXTINF:http-user-agent="hightvplayer"
-http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4765
+#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",OFF | HD 
+http://185.93.1.216:8080/live/A81905E6C3A6/A81905E6C3A6/4764.ts
 
-#EXTINF:-1 ,Globo
-#EXTINF:user-agent="hightvplayer"
-http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4764
+#EXTM3U
+
+#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",OFF | HD 
+http://185.93.1.216:8080/A81905E6C3A6/A81905E6C3A6/4764.ts
+
+#EXTM3U
+
+#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",OFF | HD 
+http://185.93.1.216:8080/live/A81905E6C3A6/A81905E6C3A6/4764
+
+#EXTM3U
+
+#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",OFF | HD 
+http://185.93.1.216:8080/A81905E6C3A6/A81905E6C3A6/4764
