@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",OFF | HD 
+#EXTINF:0 user-agent="exoPlayer_video",OFF | HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/60.ts
 #EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",Premiere Clubes | FHD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/61.ts
