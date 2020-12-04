@@ -1,319 +1,317 @@
 #EXTM3U
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",A&E HD 
+#EXTINF:0 user-agent="hightvPlayer",A&E HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4788
-
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",AMC HD
+#EXTINF:0 user-agent="hightvPlayer",AMC HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4787
-
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",ANIMAL PLANET HD
+#EXTINF:0 user-agent="hightvPlayer",ANIMAL PLANET HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4786
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",CARTOON NET WORK S 
+#EXTINF:0 user-agent="hightvPlayer",CARTOON NET WORK S 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4875
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",AXN HD
+#EXTINF:0 user-agent="hightvPlayer",AXN HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4785
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",BAND HD
+#EXTINF:0 user-agent="hightvPlayer",BAND HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4784
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",BAND SPORTS HD
+#EXTINF:0 user-agent="hightvPlayer",BAND SPORTS HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4783
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",BIS HD
+#EXTINF:0 user-agent="hightvPlayer",BIS HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4782
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",CARTOON NETWORK HD
+#EXTINF:0 user-agent="hightvPlayer",CARTOON NETWORK HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4784
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",CINEMAX HD
+#EXTINF:0 user-agent="hightvPlayer",CINEMAX HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4779
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",CARTOON NETWORK S 
+#EXTINF:0 user-agent="hightvPlayer",CARTOON NETWORK S 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4875
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",COMBATE HD
+#EXTINF:0 user-agent="hightvPlayer",COMBATE HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4778
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",COMEDY CENTRAL HD
+#EXTINF:0 user-agent="hightvPlayer",COMEDY CENTRAL HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4777
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",CURTA S
+#EXTINF:0 user-agent="hightvPlayer",CURTA S
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4875
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISCOVERY CIVILLIZATION HD 
+#EXTINF:0 user-agent="hightvPlayer",DISCOVERY CIVILLIZATION HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4775
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISCOVERY CHANNEL HD
+#EXTINF:0 user-agent="hightvPlayer",DISCOVERY CHANNEL HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4776
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1", DISCOVERY H&H HD
+#EXTINF:0 user-agent="hightvPlayer", DISCOVERY H&H HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4774
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISCOVERY KIDS  HD
+#EXTINF:0 user-agent="hightvPlayer",DISCOVERY KIDS  HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4773
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISCOVERY SCIENCE HD
+#EXTINF:0 user-agent="hightvPlayer",DISCOVERY SCIENCE HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4772
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISCOVERY THEATHER
+#EXTINF:0 user-agent="hightvPlayer",DISCOVERY THEATHER
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4771
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISCOVERY TURBO HD
+#EXTINF:0 user-agent="hightvPlayer",DISCOVERY TURBO HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4770
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISCOVERY WORLD HD
+#EXTINF:0 user-agent="hightvPlayer",DISCOVERY WORLD HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4769
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISNEY CHANNEL HD
+#EXTINF:0 user-agent="hightvPlayer",DISNEY CHANNEL HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4768
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DISNEY JUNIOR HD
+#EXTINF:0 user-agent="hightvPlayer",DISNEY JUNIOR HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4767
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",E! HD
+#EXTINF:0 user-agent="hightvPlayer",E! HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4765
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",ESPN 2HD
+#EXTINF:0 user-agent="hightvPlayer",ESPN 2HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4763
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",ESPN EXTRA  HD
+#EXTINF:0 user-agent="hightvPlayer",ESPN EXTRA  HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4762
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",ESPN HD
+#EXTINF:0 user-agent="hightvPlayer",ESPN HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4761
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",FOOD HD
+#EXTINF:0 user-agent="hightvPlayer",FOOD HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4760
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",FOX LIFE HD
+#EXTINF:0 user-agent="hightvPlayer",FOX LIFE HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4759
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",FOX PREMIUM  HD
+#EXTINF:0 user-agent="hightvPlayer",FOX PREMIUM  HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4758
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",FOX PREMIUM 2 HD
+#EXTINF:0 user-agent="hightvPlayer",FOX PREMIUM 2 HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4757
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",FOZ SPORTS 2 HD
+#EXTINF:0 user-agent="hightvPlayer",FOZ SPORTS 2 HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4756
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",FOX SPORTS  HD
+#EXTINF:0 user-agent="hightvPlayer",FOX SPORTS  HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4755
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",FX HD
+#EXTINF:0 user-agent="hightvPlayer",FX HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4754
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",GLOBO 01 SD
+#EXTINF:0 user-agent="hightvPlayer",GLOBO 01 SD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4803
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",GLOBO  02 SD
+#EXTINF:0 user-agent="hightvPlayer",GLOBO  02 SD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4804
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",GLOBO 03 SD
+#EXTINF:0 user-agent="hightvPlayer",GLOBO 03 SD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4805
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",GLOBO NEWS HD
+#EXTINF:0 user-agent="hightvPlayer",GLOBO NEWS HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4753
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",MAIS GLOBO SAT HD
+#EXTINF:0 user-agent="hightvPlayer",MAIS GLOBO SAT HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4752
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",GLOOB HD
+#EXTINF:0 user-agent="hightvPlayer",GLOOB HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4751
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",GNT HD
+#EXTINF:0 user-agent="hightvPlayer",GNT HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4750
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",H2 HD
+#EXTINF:0 user-agent="hightvPlayer",H2 HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4749
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",HISTORY HD 
+#EXTINF:0 user-agent="hightvPlayer",HISTORY HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4705
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",HBO 2
+#EXTINF:0 user-agent="hightvPlayer",HBO 2
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4748
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",HBO  FAMILY HD
+#EXTINF:0 user-agent="hightvPlayer",HBO  FAMILY HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4747
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",HBO HD
+#EXTINF:0 user-agent="hightvPlayer",HBO HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4746
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",HBO+ HD
+#EXTINF:0 user-agent="hightvPlayer",HBO+ HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4745
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",HBO SIGNATURE HD
+#EXTINF:0 user-agent="hightvPlayer",HBO SIGNATURE HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4744
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",ID  HD
+#EXTINF:0 user-agent="hightvPlayer",ID  HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4743
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1", LIFE TIME HD
+#EXTINF:0 user-agent="hightvPlayer", LIFE TIME HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4742
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",MAX HD
+#EXTINF:0 user-agent="hightvPlayer",MAX HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4741
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",MAX PRIME HD
+#EXTINF:0 user-agent="hightvPlayer",MAX PRIME HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4740
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",MAX UP HD 
+#EXTINF:0 user-agent="hightvPlayer",MAX UP HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4739
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",MEGA PIX HD
+#EXTINF:0 user-agent="hightvPlayer",MEGA PIX HD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4738
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",MTV  HD 
+#EXTINF:0 user-agent="hightvPlayer",MTV  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4737
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",MULTI SHOW  HD 
+#EXTINF:0 user-agent="hightvPlayer",MULTI SHOW  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4736
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",NAT GEO  HD 
+#EXTINF:0 user-agent="hightvPlayer",NAT GEO  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4735
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",NAT GEO KIDS  HD 
+#EXTINF:0 user-agent="hightvPlayer",NAT GEO KIDS  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4734
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",NAT GEO WILD HD 
+#EXTINF:0 user-agent="hightvPlayer",NAT GEO WILD HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4733
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",NICK JUNIOR HD 
+#EXTINF:0 user-agent="hightvPlayer",NICK JUNIOR HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4732
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",NICK HD 
+#EXTINF:0 user-agent="hightvPlayer",NICK HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4731
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",OFF HD 
+#EXTINF:0 user-agent="hightvPlayer",OFF HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4730
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",PREMIERE 2  HD 
+#EXTINF:0 user-agent="hightvPlayer",PREMIERE 2  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4728
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",PREMIER 3 HD 
+#EXTINF:0 user-agent="hightvPlayer",PREMIER 3 HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4727
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",PREMIER 4 HD 
+#EXTINF:0 user-agent="hightvPlayer",PREMIER 4 HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4726
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",PREMIER 5 HD 
+#EXTINF:0 user-agent="hightvPlayer",PREMIER 5 HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4725
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",PREMIER 6 HD 
+#EXTINF:0 user-agent="hightvPlayer",PREMIER 6 HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4724
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",PREMIER 7 HD 
+#EXTINF:0 user-agent="hightvPlayer",PREMIER 7 HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4723
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",PREMIER  CLUBES HD 
+#EXTINF:0 user-agent="hightvPlayer",PREMIER  CLUBES HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4722
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",RATIBUM HD  
+#EXTINF:0 user-agent="hightvPlayer",RATIBUM HD  
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4690
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1", RECORD HD 
+#EXTINF:0 user-agent="hightvPlayer", RECORD HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4721
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1", RECORD NEWS SD
+#EXTINF:0 user-agent="hightvPlayer", RECORD NEWS SD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4861
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",REDE TV HD 
+#EXTINF:0 user-agent="hightvPlayer",REDE TV HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4720
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",SBT HD 
+#EXTINF:0 user-agent="hightvPlayer",SBT HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4719
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",SPACE HD 
+#EXTINF:0 user-agent="hightvPlayer",SPACE HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4718
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",SPORTV 2 HD 
+#EXTINF:0 user-agent="hightvPlayer",SPORTV 2 HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4717
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",SPORTV 3 HD 
+#EXTINF:0 user-agent="hightvPlayer",SPORTV 3 HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4716
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",SPORTV HD 
+#EXTINF:0 user-agent="hightvPlayer",SPORTV HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4715
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",STUDIO UNIVERSAL HD 
+#EXTINF:0 user-agent="hightvPlayer",STUDIO UNIVERSAL HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4714
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",SYFY HD 
+#EXTINF:0 user-agent="hightvPlayer",SYFY HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4713
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",SONY H
+#EXTINF:0 user-agent="hightvPlayer",SONY H
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4781
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TBS  HD 
+#EXTINF:0 user-agent="hightvPlayer",TBS  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4712
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TELECINE ACTION  HD 
+#EXTINF:0 user-agent="hightvPlayer",TELECINE ACTION  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4711
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TELECINE CULT  HD 
+#EXTINF:0 user-agent="hightvPlayer",TELECINE CULT  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4710
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TELECINE FUN HD 
+#EXTINF:0 user-agent="hightvPlayer",TELECINE FUN HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4709
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1", TELECINE PIPOCA HD 
+#EXTINF:0 user-agent="hightvPlayer", TELECINE PIPOCA HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4708
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TELECINE HD 
+#EXTINF:0 user-agent="hightvPlayer",TELECINE HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4707
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TELECINE TOUCH  HD 
+#EXTINF:0 user-agent="hightvPlayer",TELECINE TOUCH  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4706
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TCL HD 
+#EXTINF:0 user-agent="hightvPlayer",TCL HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4704
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TNT HD 
+#EXTINF:0 user-agent="hightvPlayer",TNT HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4703
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TNT SERIES HD 
+#EXTINF:0 user-agent="hightvPlayer",TNT SERIES HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4702
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TV CANÇÃO NOVA SD
+#EXTINF:0 user-agent="hightvPlayer",TV CANÇÃO NOVA SD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4866
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1", TV APARECIDA SD
+#EXTINF:0 user-agent="hightvPlayer", TV APARECIDA SD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4868
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1", TV REDE VIDA  SD
+#EXTINF:0 user-agent="hightvPlayer", TV REDE VIDA  SD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4873
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TV CULTURA SD
+#EXTINF:0 user-agent="hightvPlayer",TV CULTURA SD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4875
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",TV NOVO TEMPO SD
+#EXTINF:0 user-agent="hightvPlayer",TV NOVO TEMPO SD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4869
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",UNIVERSAL HD 
+#EXTINF:0 user-agent="hightvPlayer",UNIVERSAL HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4727
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",VIVA HD 
+#EXTINF:0 user-agent="hightvPlayer",VIVA HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4699
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",WARNNER BROS  HD 
+#EXTINF:0 user-agent="hightvPlayer",WARNNER BROS  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4698
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",BrASILEIRÃO TNT  HD 
+#EXTINF:0 user-agent="hightvPlayer",BrASILEIRÃO TNT  HD 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4697
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",ZOOMOO FHD
+#EXTINF:0 user-agent="hightvPlayer",ZOOMOO FHD
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4874
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DESENHOS 24 HORAS 
+#EXTINF:0 user-agent="hightvPlayer",DESENHOS 24 HORAS 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4827
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1", DESENHOS 24 HORAS 02 
+#EXTINF:0 user-agent="hightvPlayer", DESENHOS 24 HORAS 02 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4825
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",FISH TV 
+#EXTINF:0 user-agent="hightvPlayer",FISH TV 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4871
 
-#EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",DESENHOS 24 HORAS 03 
+#EXTINF:0 user-agent="hightvPlayer",DESENHOS 24 HORAS 03 
 http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4824
