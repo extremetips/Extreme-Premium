@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-id="GSP" tvg-name="Globo SP | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta",Globo SP | HD
+#EXTINF:0 user-agent="hightvPlayer"
 http://viptv2.dyndns.tv:25461/A81905E6C33E/A81905E6C33E/3
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC | HD" tvg-logo="https://www.lineup.tv.br/canais/amc.gif" group-title="Filmes",AMC | HD
 http://viptv2.dyndns.tv:25461/A81905E6C33E/A81905E6C33E/4
