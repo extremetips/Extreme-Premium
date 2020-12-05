@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent="hightvplayer"
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 05" , A&E HD 
+http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4788
