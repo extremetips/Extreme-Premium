@@ -2,7 +2,7 @@
 #EXTINF:0 http-user-agent="exoPlayer_video",OFF | HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/60.ts
 #EXTINF:0 user-agent="hightvPlayer ExoPlayer_video",Premiere Clubes | FHD 
-http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/81.ts
+http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/62.ts
 #EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",Premiere Clubes | HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/62.ts
 #EXTINF:0 user-agent="hightvPlayer Linux;Android 7.1.2 ExoPlayerLib/2.10.1",Premiere 2 | HD 
