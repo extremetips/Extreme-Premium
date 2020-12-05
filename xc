@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,OFF HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/60.ts
-#EXTINF:0,Premiere Clubes FHD 
+#EXTINF:0,Premiere Clubes  
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/61.ts
 #EXTINF:0,Premiere Clubes HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/62.ts
@@ -19,15 +19,15 @@ http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/67.ts
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/68.ts
 #EXTINF:0,SporTV HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/69.ts
-#EXTINF:0,SporTV FHD 
+#EXTINF:0,SporTV  
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/70.ts
-#EXTINF:0,SporTV2 FHD 
+#EXTINF:0,SporTV2  
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/71.ts
 #EXTINF:0,SporTV 2 HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/72.ts
 #EXTINF:0,SBT HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/73.ts
-#EXTINF:0,SporTV3 FHD 
+#EXTINF:0,SporTV3  
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/74.ts
 #EXTINF:0,Rede TV HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/75.ts
@@ -51,7 +51,7 @@ http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/83.ts
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/84.ts
 #EXTINF:0,Globo News HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/85.ts
-#EXTINF:0,Band News FHD 
+#EXTINF:0,Band News  
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/86.ts
 #EXTINF:0,Beinsport 1 HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/87.ts
@@ -75,17 +75,17 @@ http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/96.ts
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/97.ts
 #EXTINF:0,EuroChannel HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/98.ts
-#EXTINF:0,Animal Planet FHD 
+#EXTINF:0,Animal Planet  
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/99.ts
 #EXTINF:0,Animal Planet HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/100.ts
-#EXTINF:0,Discovery Home & Health FHD 
+#EXTINF:0,Discovery Home & Health  
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/101.ts
 #EXTINF:0,Discovery Home & Health HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/102.ts
-#EXTINF:0,Discovery Channel FHD 
+#EXTINF:0,Discovery Channel  
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/103.ts
 #EXTINF:0,Discovery Channel HD 
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/104.ts
-#EXTINF:0,Discovery Theater FHD 
+#EXTINF:0,Discovery Theater  
 http://viptv2.dyndns.tv:25461/live/A81905E6C3A6/A81905E6C3A6/59.ts
