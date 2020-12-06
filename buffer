@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:0 user-agent="hightvPlayer",A&E HD 
-http://185.93.1.216:8080/B2A463CD6630/B2A463CD6630/4788
