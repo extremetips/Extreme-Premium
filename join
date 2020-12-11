@@ -3,7 +3,7 @@
 #EXTINF:0 user-agent="hightvPlayer",A&E HD 
 http://viptv2.dyndns.tv:25461/A81905E6C3A6/A81905E6C3A6/3
 
-#EXTINF:0 user-agent="hightvPlayer",AMC HD
+#EXTVLCOPT:http-user-agent="hightvplayer",AMC
 http://185.93.1.216:8080/B2A463CD7B63/B2A463CD7B63/4787
 
 #EXTINF:0 user-agent="hightvPlayer",ANIMAL PLANET HD
