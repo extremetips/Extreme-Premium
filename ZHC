@@ -1,4 +1,4 @@
-#EXTINF:-1 user-agent="hightvPlayer"  user-agent="hightvPlayer" tvg-id="GSP" tvg-name="Globo SP | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta",Globo SP | HD
+#EXTINF:-1 user-agent="hightvPlayer"  user-agent="hightvPlayer" tvg-id="GSP" tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta",Globo SP | HD
 http://199.127.62.104:2086/C44EAC260EDE/C44EAC260EDE/3
 #EXTINF:-1 user-agent="hightvPlayer"  tvg-id="AMC" tvg-name="AMC | HD" tvg-logo="https://www.lineup.tv.br/canais/amc.gif" group-title="Filmes",AMC | HD
 http://199.127.62.104:2086/C44EAC260EDE/C44EAC260EDE/4
