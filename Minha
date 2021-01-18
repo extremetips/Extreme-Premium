@@ -1,2 +1,2 @@
-http://tv.minhalista.me:80/get.php?username=Solange&password=Solange&type=m3u_plus&output=ts
+{"epg":"http://playhdtv.tk/epg.xml","list":"http://tv.minhalista.me:80/get.php?username=Solange&password=Solange&type=m3u_plus&output=ts","success":true,"validity":"12/02/2021"}
 
